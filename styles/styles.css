@@ -658,7 +658,7 @@ transform: translate(5%, 0) scale(1.4);
   
 .flip-card-container .flip-card {
     background-color: transparent;
-width: 223px;
+width: 246px;
     height: 397px;
     perspective: 100;
     border-radius: 40px;
